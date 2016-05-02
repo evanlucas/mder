@@ -1,0 +1,32 @@
+{
+  "name": "mder",
+  "version": "1.0.0",
+  "description": "Process and generate static sites from markdown files",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js --cov"
+  },
+  "dependencies": {
+    "gray-matter": "~2.0.2",
+    "help": "~3.0.1",
+    "marky-markdown": "~7.0.0",
+    "pkgauthor": "~2.0.0"
+  },
+  "devDependencies": {
+    "lintit": "~1.0.1",
+    "tap": "~5.7.1"
+  },
+  "license": "MIT",
+  "bin": {
+    "mder": "./bin/cmd.js"
+  },
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/mder"
+  },
+  "homepage": "https://github.com/evanlucas/mder",
+  "bugs": {
+    "url": "https://github.com/evanlucas/mder/issues"
+  }
+}

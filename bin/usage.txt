@@ -1,0 +1,7 @@
+mder - Process and generate static sites from markdown files
+
+  usage: mder [options]
+
+  options:
+    -h, --help                    show help and usage
+    -v, --version                 show version
