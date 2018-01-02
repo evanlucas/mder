@@ -9,7 +9,7 @@
   "dependencies": {
     "gray-matter": "~2.0.2",
     "help": "~3.0.1",
-    "marky-markdown": "~7.0.0",
+    "marky-markdown": "^9.0.1",
     "pkgauthor": "~2.0.0"
   },
   "devDependencies": {
